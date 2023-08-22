@@ -1,0 +1,34 @@
+html {  /*This is use to define the font of the entire page*/
+    font-size: 16px;
+    font-family: "Open-Sans", sans-serif;
+    background-color: #00539f;
+}
+
+body {
+   width: 600px;
+   background-color: #ff9500;
+   margin: 0auto;
+   padding: 0px 20px 20px 20px;
+   border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    font-size: 60px;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 0px 3px 3px black;
+    text-align: center;
+}
+img{
+    display:block;
+    margin: 0 auto;
+}
+
+p,
+li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+
+}
